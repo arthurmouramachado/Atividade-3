@@ -108,10 +108,10 @@ git commit -m "Implementa o menu interativo no Main.java"
 git commit -m "Cria README.md com instruções e detalhes do projeto"
 
 
-git remote add origin https://github.com/seuusuario/seurepositorio.git
+git remote add origin https://github.com/arthurmouramachado/Atividade-3.git
 git branch -M main
 git push -u origin main
-Obs: Lembre-se de substituir a URL acima pelo link do seu repositório.
+
 
 👨‍💻 Autor
 Nome: Arthur Moura Machado
