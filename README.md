@@ -56,11 +56,14 @@ Este repositório contém a implementação da primeira lista de exercícios de 
 ```bash
 javac *.java
 Execute o programa principal:
+<<<<<<< HEAD
 
 bash
 Copiar
 Editar
 java Main
+=======
+
  Passos para Execução no VSCode
 Abra a pasta do projeto no VSCode.
 
@@ -108,10 +111,17 @@ git commit -m "Implementa o menu interativo no Main.java"
 git commit -m "Cria README.md com instruções e detalhes do projeto"
 
 
+<<<<<<< HEAD
 git remote add origin https://github.com/seuusuario/seurepositorio.git
 git branch -M main
 git push -u origin main
 Obs: Lembre-se de substituir a URL acima pelo link do seu repositório.
+=======
+git remote add origin https://github.com/arthurmouramachado/Atividade-3.git
+git branch -M main
+git push -u origin main
+
+>>>>>>> 96a62f7bc0a6dd76efc1b513f9e2cbd5c7e6b0ce
 
 👨‍💻 Autor
 Nome: Arthur Moura Machado
@@ -121,4 +131,7 @@ Curso/Disciplina: Linguagem de Programação
 Data: Junho de 2025
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 96a62f7bc0a6dd76efc1b513f9e2cbd5c7e6b0ce
