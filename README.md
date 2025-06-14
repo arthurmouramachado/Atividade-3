@@ -56,11 +56,8 @@ Este repositório contém a implementação da primeira lista de exercícios de 
 ```bash
 javac *.java
 Execute o programa principal:
-
-bash
-Copiar
-Editar
 java Main
+
  Passos para Execução no VSCode
 Abra a pasta do projeto no VSCode.
 
