@@ -25,16 +25,27 @@ Este repositório contém a implementação da primeira lista de exercícios de 
 ├── Bhaskara.java # Classe do Exercício 2
 
 ├── MenordeTres.java # Classe do Exercício 3
+
 ├── Telefonia.java # Classe do Exercício 4
+
 ├── Troco.java # Classe do Exercício 5
+
 ├── Glicose.java # Classe do Exercício 6
+
 ├── Dardo.java # Classe do Exercício 7
+
 ├── Temperatura.java # Classe do Exercício 8
+
 ├── Lanchonete.java # Classe do Exercício 9
+
 ├── Multiplos.java # Classe do Exercício 10
+
 ├── Salario.java # Classe do Exercício 11
+
 ├── Jogo.java # Classe do Exercício 12
+
 ├── Coordenadas.java # Classe do Exercício 13
+
 ├── README.md # Este arquivo com as instruções
 
 
