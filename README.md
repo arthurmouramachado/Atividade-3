@@ -19,8 +19,11 @@ Este repositório contém a implementação da primeira lista de exercícios de 
 ## 📁 Estrutura do Projeto
 
 ├── Main.java # Classe principal com o menu interativo que chama os exercícios
+
 ├── Notas.java # Classe do Exercício 1
+
 ├── Bhaskara.java # Classe do Exercício 2
+
 ├── MenordeTres.java # Classe do Exercício 3
 ├── Telefonia.java # Classe do Exercício 4
 ├── Troco.java # Classe do Exercício 5
@@ -100,28 +103,6 @@ Jogo – Cálculo da duração de um jogo em horas.
 
 Coordenadas – Determinação do quadrante de um ponto no plano cartesiano.
 
- Versionamento com Git
-Este projeto é versionado com Git, com commits frequentes e mensagens descritivas.
-
-
-git init
-git add .
-git commit -m "Adiciona classes dos exercícios com estrutura POO em Java"
-git commit -m "Implementa o menu interativo no Main.java"
-git commit -m "Cria README.md com instruções e detalhes do projeto"
-
-
-<<<<<<< HEAD
-git remote add origin https://github.com/seuusuario/seurepositorio.git
-git branch -M main
-git push -u origin main
-Obs: Lembre-se de substituir a URL acima pelo link do seu repositório.
-=======
-git remote add origin https://github.com/arthurmouramachado/Atividade-3.git
-git branch -M main
-git push -u origin main
-
->>>>>>> 96a62f7bc0a6dd76efc1b513f9e2cbd5c7e6b0ce
 
 👨‍💻 Autor
 Nome: Arthur Moura Machado
